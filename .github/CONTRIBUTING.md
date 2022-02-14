@@ -20,7 +20,7 @@ To run any of the TypeScript based Skyra bots locally a few steps should be take
 
 1. Install [Node.JS], [Yarn] and [Docker].
 1. In the Discord Developer portal go to your application and then to the "Bot" menu.
-1. At "Privileged Gateway Intents" enable "SERVER MEMBERS INTENT" and "MESSAGE CONTENT INTENT"
+1. At "Privileged Gateway Intents" enable `SERVER MEMBERS INTENT` and `MESSAGE CONTENT INTENT`
 1. Copy and paste the [`.env.development`] file in the `src` directory and rename it to `.env.development.local`.
 1. Scroll down to the tokens section.
 1. At this section enter your own bot's API token at `DISCORD_TOKEN`.
