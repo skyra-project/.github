@@ -51,7 +51,7 @@ $ yarn start
 There are a number of guidelines considered when reviewing Pull Requests to be merged. _This is by no means an
 exhaustive list, but here are some things to consider before/while submitting your ideas._
 
-- Skyra Project should never change sapphire's or Discord.js' default behavior. Skyra should only add to Sapphire and
+- Skyra Project should never change Sapphire's or Discord.js' default behavior. Skyra should only add to Sapphire and
   Discord.js, and be as consistent as possible with them.
 - Everything in Skyra Project should be generally useful for the majority of users. Don't let that stop you if you've
   got a good concept though, as your idea still might be a great addition.
