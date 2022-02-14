@@ -64,7 +64,7 @@ exhaustive list, but here are some things to consider before/while submitting yo
 - Everything should follow our ESLint rules as closely as possible, and should pass lint tests even if you must disable
   a rule for a single line.
 - Everything should follow [Discord Bot Best Practices]
-- Scripts that are to be ran outside of the scope of the bot should be added to [scripts] directory and should be in the
+- Scripts that are to be ran outside of the scope of the bot should be added to a `scripts` directory at the root and should be in the
   `.mjs` file format.
 
 <!-- Link Dump -->
@@ -77,4 +77,3 @@ exhaustive list, but here are some things to consider before/while submitting yo
 [oop paradigms]: https://en.wikipedia.org/wiki/Object-oriented_programming
 [discord bot best practices]: https://github.com/meew0/discord-bot-best-practices
 [`.env.development`]: /src/.env.development
-[scripts]: /scripts
