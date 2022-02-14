@@ -2,7 +2,7 @@
 	"name": "github",
 	"version": "1.0.0",
 	"description": "Shareable github metadata files for our organisation",
-	"author": "@sapphire",
+	"author": "@skyra",
 	"license": "MIT",
 	"private": true,
 	"scripts": {
