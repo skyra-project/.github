@@ -6,8 +6,8 @@
 
 **Invite our Discord bots**
 
-| **[Invite Skyra](https://invite.skyra.pw/skyra)**	| **[Invite Teryl](https://invite.skyra.pw/teryl)**	| **[Invite Iriss](https://invite.skyra.pw/iriss)**	| **[Invite Nekokai](https://invite.skyra.pw/nekokai)**	| **[Invite Dragonite](https://dragonite.favware.tech)** |
-| ---	| --- | --- | --- | --- |
+| **[Invite Skyra](https://invite.skyra.pw/skyra)**	| **[Invite Teryl](https://invite.skyra.pw/teryl)**	| **[Invite Iriss](https://invite.skyra.pw/iriss)**	| **[Invite Nekokai](https://invite.skyra.pw/nekokai)**	| **[Invite Dragonite](https://dragonite.favware.tech)** | **[Invite Artiel](https://invite.skyra.pw/artiel)** |
+| ---	| --- | --- | --- | --- | --- |
 
 
 </div>
