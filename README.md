@@ -12,10 +12,11 @@
 
 ## Buy us some doughnuts
 
-Skyra Project is open source and always will be, even if we don't get donations. That said, we know there are amazing people who
-may still want to donate just to show their appreciation. Thanks you very much in advance!
+Skyra Project is open source and always will be, even if we don't get donations. That said, we know there are amazing
+people who may still want to donate just to show their appreciation. Thanks you very much in advance!
 
-We accept donations through Patreon, BitCoin, Ethereum, and Litecoin. You can use the buttons below to donate through your method of choice.
+We accept donations through Patreon, BitCoin, Ethereum, and Litecoin. You can use the buttons below to donate through
+your method of choice.
 
 | Donate With |         QR         |                        Address                         |
 | :---------: | :----------------: | :----------------------------------------------------: |
@@ -26,7 +27,6 @@ We accept donations through Patreon, BitCoin, Ethereum, and Litecoin. You can us
 |  Litecoin   | ![LitecoinImage][] |     [MNVT1keYGMfGp7vWmcYjCS8ntU8LNvjnqM][litecoin]     |
 
 [skyraprojectghurl]: https://github.com/skyra-project
-
 [bitcoin]: bitcoin:3JNzCHMTFtxYFWBnVtDM9Tt34zFbKvdwco?amount=0.01&label=Skyra%20Discord%20Bot
 [bitcoinimage]: https://cdn.skyra.pw/gh-assets/bitcoin.png
 [ethereum]: ethereum:0xcB5EDB76Bc9E389514F905D9680589004C00190c?amount=0.01&label=Skyra%20Discord%20Bot
