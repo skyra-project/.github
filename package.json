@@ -9,12 +9,12 @@
 		"prettier": "prettier --ignore-path=.prettierignore",
 		"format": "prettier --write \"*\""
 	},
-	"packageManager": "yarn@4.13.0",
+	"packageManager": "yarn@4.14.1",
 	"dependencies": {
 		"@sapphire/prettier-config": "^2.0.0"
 	},
 	"devDependencies": {
-		"prettier": "^3.8.2"
+		"prettier": "^3.8.3"
 	},
 	"resolutions": {
 		"ansi-regex": "^6.2.2",
