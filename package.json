@@ -17,7 +17,7 @@
 		"prettier": "^3.9.6"
 	},
 	"resolutions": {
-		"ansi-regex": "^6.2.2",
+		"ansi-regex": "^6.3.0",
 		"minimist": "^1.2.8"
 	}
 }
