@@ -11,7 +11,7 @@
 	},
 	"packageManager": "yarn@4.18.1",
 	"dependencies": {
-		"@sapphire/prettier-config": "^2.0.0"
+		"@sapphire/prettier-config": "^3.0.0"
 	},
 	"devDependencies": {
 		"prettier": "^3.10.1"
